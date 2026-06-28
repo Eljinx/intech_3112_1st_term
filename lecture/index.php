@@ -22,7 +22,7 @@
 
       <ul class="list">
         <li><a class="module" href="intro/index.php">Introduction</a></li>
-        <li><a class="module" href="#">Module 2</a></li>
+        <li><a class="module" href="module_2/index.php">Module 2</a></li>
         <li><a class="module" href="#">Module 3</a></li>
       </ul>
 
