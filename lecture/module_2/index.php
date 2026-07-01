@@ -210,6 +210,22 @@
         <script src="js/dom-traversal.js"></script>
         <script src="js/event-demo.js"></script>
 
+        <script type="text/javascript" src="js/jquery.min.js">
+
+            $.ajax({
+                method: "GET",
+                url: "api/objects.php",
+                dataType: "json",
+                success: function(data) {
+
+                }
+                error: function() {
+                    
+                }
+            })
+
+        </script>
+
         <script>
             
         </script>
